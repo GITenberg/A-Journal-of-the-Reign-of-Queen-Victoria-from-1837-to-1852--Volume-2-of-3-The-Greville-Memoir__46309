@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26534
     wikipedia: http://en.wikipedia.org/wiki/Charles_Cavendish_Fulke_Greville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46309#A-Journal-of-the-Reign-of-Queen-Victoria-from-1837-to-1852--Volume-2-of-3-The-Greville-Memoir_
 gutenberg_issued: '2014-07-17'
 gutenberg_type: Text
 identifiers:
